@@ -1,0 +1,26 @@
+# Build directories
+build/
+cmake-build-*/
+*.pro.user
+*.autosave
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Qt specific
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*

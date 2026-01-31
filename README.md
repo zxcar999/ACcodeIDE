@@ -30,7 +30,7 @@ Note:This project was developed with the assistance of AI coding tools (such as 
 官网：accodeide.wems.top（暂时不可用）
 
 它能帮助你编写 C++ 代码，提供基础的代码补全、自动缩进和括号自动闭合功能，并可一键编译运行程序。  
-我们希望这款 IDE（正如其名 “ACcodeIDE” 所寓意的那样）能助你在各类在线评测平台（如 [洛谷](https://luogu.com)、[Codeforces](https://codeforces.com) 等）上收获更多的 **AC（Accepted）**！
+我们希望这款 IDE（正如其名 “ACcodeIDE” 所寓意的那样）能助你在各类在线评测平台（如 [洛谷](https://luogu.com.cn)、[Codeforces](https://codeforces.com) 等）上收获更多的 **AC（Accepted）**！
 
 > 遗憾的是，当前版本**暂不支持语法高亮**。  
 > 虽然我们集成了 QCodeEditor（它本身支持高亮），但由于部分代码改动导致高亮功能暂时失效，我们深感抱歉 (〒▽〒)。  
